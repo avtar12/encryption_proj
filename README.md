@@ -1,5 +1,4 @@
-# encryption_proj
-Source Code
+# encryption_proj Source Code
 
 alphabets='abcdefghijklmnopqrstuvwxyz'
 key= 4
