@@ -1,11 +1,10 @@
 # encryption_proj Source Code
 
 alphabets='abcdefghijklmnopqrstuvwxyz'
-key= 4
 new_message =''
 
 message= input('Please enter the message:')
-
+key= int(input('please enter the key from (1-26)')
 for character in message:
   if character in alphabets:
    position= alphabets.find(character)
